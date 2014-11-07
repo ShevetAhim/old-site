@@ -1,0 +1,32 @@
+/* MISC 
+-------------------------------------------------*/
+
+body {
+    background-color: #FEF8D8;
+}
+
+.panel {
+    border: 1px solid #EEE;
+}
+
+.panel-body img {
+    max-width: 100%;
+}
+
+.container.attractions {
+    margin: 25px;
+}
+
+.article-content > .img-thumbnail {
+    max-width: 320px;
+    max-height: 320px;
+    margin-right: 10px;
+}
+
+.carousel-inner > .item > img {
+    min-width: 100%;
+}
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5);
+}
