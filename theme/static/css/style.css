@@ -1,5 +1,7 @@
 body {
     padding-top: 70px;
+    background: url(http://wallpoper.com/images/00/22/78/16/pattern-wood_00227816.jpg);
+    background-attachment: fixed;
 }
 
 #sidebar .list-group, #sidebar .list-group-item {
