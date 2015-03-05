@@ -18,9 +18,8 @@
                 <img src="{{ page.image }}" alt="First slide" class="img-rounded">
                 <div class="container">
                     <div class="carousel-caption img-rounded">
-                        <h1>{{ page.title }}</h1>
+                        <a href="{{ page.url }}"><h3>{{ page.title }}</h3></a>
                         <p>{{ page.caption }}</p>
-                        <p><a class="btn btn-primary" href="{{ page.url }}" role="button">Read more &raquo;</a></p>
                     </div>
                 </div>
             </div>
@@ -43,7 +42,7 @@
     <!-- Three columns of text below the carousel -->
     <div class="row">
         {% for category, pages in categories %}{% if category == 'Attractions' %}{% for page in pages %}
-            <div class="col-lg-4 text-center">
+            <div class="col-sm-4 text-center">
                 <img class="thumbnail text-center" src="{{ page.image }}">
                 <a href="{{ page.url }}"><h2>{{ page.title }}</h2></a>
                 <p>{{ page.caption }}</p>

@@ -96,6 +96,17 @@
 
 <div class="container">
     <div class="row">
+        <div class="col-md-9">
+            <div class="panel">
+                <div class="panel-body">
+                    {% block breadcrumbs %}
+                    {% endblock %}
+
+                    {% block content %}
+                    {% endblock %}
+                </div>
+            </div>
+        </div>
         <div class="col-md-3">
             <div class="panel">
                 <div class="panel-body text-center">
@@ -105,17 +116,6 @@
                     </div>
                     {% block sidebar %}
                         {% include 'includes/reviews_sidebar.html' %}
-                    {% endblock %}
-                </div>
-            </div>
-        </div>
-        <div class="col-md-9">
-            <div class="panel">
-                <div class="panel-body">
-                    {% block breadcrumbs %}
-                    {% endblock %}
-
-                    {% block content %}
                     {% endblock %}
                 </div>
             </div>
