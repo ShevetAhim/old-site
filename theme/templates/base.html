@@ -95,8 +95,12 @@
 </div> 
 
 <div class="container">
+
     <div class="row">
         <div class="col-md-9">
+
+            {% block header %}{% endblock%}
+
             <div class="panel">
                 <div class="panel-body">
                     {% block breadcrumbs %}
@@ -107,13 +111,10 @@
                 </div>
             </div>
         </div>
+
         <div class="col-md-3">
             <div class="panel">
                 <div class="panel-body text-center">
-                    <div class="well">
-                        <img src="http://www.tivon.co.il/sysvault/docsfiles2/cmi634553044994340208.png">
-                        <i>Naturally slow down</i>
-                    </div>
                     {% block sidebar %}
                         {% include 'includes/reviews_sidebar.html' %}
                     {% endblock %}
