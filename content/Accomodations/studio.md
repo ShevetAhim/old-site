@@ -2,7 +2,7 @@ Title: Family studio
 Date: 2012-07-15 13:33
 Author: Nagasaki45
 Slug: studio
-Image: http://apod.nasa.gov/apod/image/1403/heic1404b1920.jpg
+Image: https://lh4.googleusercontent.com/-98DZaNUXN2g/VPmwMGfm3qI/AAAAAAAABo8/1FSX8oF1M60/w1145-h859-no/IMG_4357_43.JPG
 Caption: TODOCAPTION
 
 This is 4 bed room (2 double and 2 single) with private bathroom and a small kitchen (with refrigerator, electric plate for cooking and free coffee and tea).
