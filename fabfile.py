@@ -10,7 +10,7 @@ DEPLOY_PATH = env.deploy_path
 
 # Remote server configuration
 env.hosts = ['nagasaki45@nagasaki45.com']
-site_name = 'gbc.nagasaki45.com'
+site_name = 'www.galilee-bedouin-camplodge.com'
 dest_path = '/home/nagasaki45/sites/{}/'.format(site_name)
 
 # Rackspace Cloud Files configuration settings
