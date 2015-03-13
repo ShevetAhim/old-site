@@ -3,7 +3,16 @@ Date: 2011-10-23 16:42
 Author: Nagasaki45
 Slug: contact
 
-For any questions please contact us
+For any questions please <a data-toggle="modal" data-target="#contactForm">contact us</a>.
+
+<!-- Dialog -->
+<div class="modal fade" id="contactForm" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+        <iframe src="https://docs.google.com/forms/d/1D3Ic0DjhbKvSWINHfhBSx8CFxo3Uwef0tHxHF8xV-2w/viewform?embedded=true" style="position: relative; width: 100%;" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+    </div>
+  </div>
+</div>
 
 Map and directions you can find
 [here](https://www.dropbox.com/s/0p8t0eft9mhkwn1/EnglishMap.pdf "EnglishMap").
