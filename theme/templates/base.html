@@ -81,6 +81,9 @@
         </div>
         <div class="collapse navbar-collapse navbar-ex1-collapse">
             <ul class="nav navbar-nav">
+                <li{% if False %} class="active"{% endif %}><a href="{{ SITEURL }}/accomodations.html">
+                    Accomodations
+                </a></li>
                 {% for p in pages %}
                     <li{% if p == page %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ p.url }}">
                         {{ p.menulabel|default(p.title) }}

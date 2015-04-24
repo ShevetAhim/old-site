@@ -42,3 +42,24 @@ body {
 footer {
     background-color: rgba(255, 255, 255, 0.4);
 }
+
+/* IMAGE BLOCKS
+ * ------------------------------------------------*/
+.image-block {
+    position: relative;
+    margin-bottom: 10px;
+}
+
+.ib-content {
+    position: absolute;
+    padding: 5px 5px;
+    bottom: 0px;
+    width: 100%;
+}
+
+.ib-content-element {
+    color: white;
+    padding: 5px 5px;
+    margin: 0px;
+    background: rgba(0,0,0,0.7);
+}
