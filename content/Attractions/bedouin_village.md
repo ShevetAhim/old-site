@@ -2,7 +2,7 @@ Title: The village
 Date: 2014-11-07 18:56
 Author: Nagasaki45
 Slug: bedouin_village
-Image: https://lh6.googleusercontent.com/-36317LumNis/VBXYi38cL1I/AAAAAAAABhc/M0faKIietvM/w389-h583-no/coexistence.jpg
+Image: https://lh3.googleusercontent.com/hsm-sqWGGezJvP0JRejL6DUA7TbHhkIMqDG_k-EVb-c=w640-h480-no
 Caption: The bedouin village of Tabash
 
 The village atmosphere is most hospitable.
