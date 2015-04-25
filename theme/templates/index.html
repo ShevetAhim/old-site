@@ -49,9 +49,30 @@
     <!-- Three columns of text below the carousel -->
     <div class="row">
         {% for category, pages in categories %}{% if category == 'Attractions' %}{% for page in pages %}
-            <div class="col-sm-4 col-xs-6 text-center">
+            <div class="col-md-4 col-sm-6 col-xs-12 text-center">
                 <img class="thumbnail text-center" src="{{ page.image }}">
                 <a href="{{ page.url }}"><h2>{{ page.title }}</h2></a>
+                <p>{{ page.caption }}</p>
+            </div>
+        {% endfor %}{% endif %}{% endfor %}
+    </div>
+
+</div>
+
+<!-- Partners
+=================================================== -->
+<header class="page-header">
+    <h2>Attractions</h2>
+</header>
+
+<div class="container partners">
+
+    <!-- Three columns of text below the carousel -->
+    <div class="row">
+        {% for category, pages in categories %}{% if category == 'Partners' %}{% for page in pages %}
+            <div class="col-md-3 col-sm-4 col-xs-12 text-center">
+                <img class="thumbnail text-center" src="{{ page.image }}">
+                <h4>{{ page.title }}</h4>
                 <p>{{ page.caption }}</p>
             </div>
         {% endfor %}{% endif %}{% endfor %}
