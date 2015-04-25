@@ -1,4 +1,4 @@
-Title: Arround us
+Title: Hiking and bicycling
 Date: 2014-11-07 18:56
 Author: Nagasaki45
 Slug: nature_reserves
