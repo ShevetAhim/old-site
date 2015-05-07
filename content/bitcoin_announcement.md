@@ -2,7 +2,7 @@ Title: We are pleased to announce: Bitcoins accepted here!
 Date: 2013-03-19 21:05
 Author: Irit Gurion
 Category: General
-Slug: bitcoins_announcement
+Slug: bitcoins-announcement
 Image: http://upload.wikimedia.org/wikipedia/commons/5/50/Bitcoin.png
 
 We are very happy to be the first tourism business in Israel to accept

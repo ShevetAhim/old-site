@@ -1,7 +1,7 @@
 Title: Hiking and bicycling
 Date: 2014-11-07 18:56
 Author: Nagasaki45
-Slug: nature_reserves
+Slug: nature-reserves
 Image: https://lh4.googleusercontent.com/-r0Fn1wiHy28/Uqw2XtVxRII/AAAAAAAABII/CWnaEQxtVWI/2012-03-04%25252010.13.00edit.jpg?imgmax=800
 Caption: The nature reserves of Allone Aba and Tzipori river are just around the corner
 

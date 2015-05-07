@@ -1,7 +1,7 @@
 Title: Communal dormitory tent
 Date: 2012-07-15 13:33
 Author: Nagasaki45
-Slug: shared
+Slug: shared-room
 Caption: One bed; Free WiFi
 Template: accomodation
 Image: https://lh4.googleusercontent.com/-O_ndUl2zQbg/UkrDiEQd88I/AAAAAAAABFY/RfN4qrqMlSU/w1343-h895-no/Photos-543edit.jpg

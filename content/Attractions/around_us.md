@@ -1,7 +1,7 @@
 Title: The villages around us
 Date: 2015-04-25 12:56
 Author: Izhar
-Slug: around_us
+Slug: around-us
 Image: http://www.haaretz.com/polopoly_fs/1.584118!/image/3684164784.jpg_gen/derivatives/landscape_640/3684164784.jpg
 Caption: Templer houses are just 10 minutes drive away in Bethlehem of Galilee and Alone Aba
 

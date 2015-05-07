@@ -1,7 +1,7 @@
 Title: Private train wagon
 Date: 2012-07-15 13:33
 Author: Nagasaki45
-Slug: train_wagon
+Slug: train-wagon
 Caption: Couple room; Breakfast included; Free WiFi
 Template: accomodation
 Image: https://lh6.googleusercontent.com/-7hjrr2Z2FII/UA5qqhkngZI/AAAAAAAABEM/aSOpiIQAaC8/w815-h543-no/IMG_0766.JPG

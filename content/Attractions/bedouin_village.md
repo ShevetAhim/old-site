@@ -1,7 +1,7 @@
 Title: The village
 Date: 2014-11-07 18:56
 Author: Nagasaki45
-Slug: bedouin_village
+Slug: bedouin-village
 Image: https://lh3.googleusercontent.com/hsm-sqWGGezJvP0JRejL6DUA7TbHhkIMqDG_k-EVb-c=w640-h480-no
 Caption: The bedouin village of Tabash
 

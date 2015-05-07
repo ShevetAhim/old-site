@@ -1,7 +1,7 @@
 Title: Tipi tent
 Date: 2012-07-15 13:33
 Author: Nagasaki45
-Slug: tipi_tent
+Slug: tipi-tent
 Caption: For single or couple; Free WiFi
 Template: accomodation
 Image: https://lh3.googleusercontent.com/-Ssx1hSR-HIA/Ukq2BM3kABI/AAAAAAAABBM/KRp_0RWPbSI/20130928_155959.jpg?imgmax=800
