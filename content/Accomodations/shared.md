@@ -13,6 +13,8 @@ Properties: Fully equiped kitchen
             Free WiFi
             Shared bathroom
             Up to 25 people
+Tags: Dormitory,Shared room,Bedouin tent
+Summary: 15-Bed shared dormitory on a suburban environment. Chill-out in the spirit of the Bedouin hospitality.
 
 Bed in 15-Bed Dormitory: This is a large tent with 15 single beds/mattresses (The tent can be reserved for groups, and number of beds can be increased to 25).
 Outside the tent is a spacious shaded chill-out area built in the spirit of the Bedouin hospitality, with views of the garden.

@@ -15,6 +15,10 @@ DEFAULT_LANG = u'en'
 ARTICLE_URL = '{category}/{slug}.html'
 ARTICLE_SAVE_AS = ARTICLE_URL
 
+# Keywords and metadata
+DESCRIPTION = 'Naturally slow down in the Bedouin village of Tabash. unique experience guaranteed!'
+KEYWORDS = ('bedouin hospitality', 'camplodge', 'galilee', 'tent', 'hostel')
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None

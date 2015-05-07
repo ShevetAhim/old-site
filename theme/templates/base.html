@@ -29,6 +29,8 @@
 
     {% block meta %}
         <meta name="author" content="{{ AUTHOR }}" />
+        <meta name="description" content="{{ DESCRIPTION }}" />
+        <meta name="keywords" content="{{ KEYWORDS|join(',')|striptags }}" />
     {% endblock %}
 
     {# Open Graph tags #}
