@@ -36,13 +36,15 @@
             <thead><tr><th>Accomodation facilities</th></tr></thead>
             <tbody>
                 {% for prop in article.properties %}
-                    <tr><td>{{ prop }}</tr></td>
+                    <tr><td>{{ prop }}</td></tr>
                 {% endfor %}
             </tbody>
         </table>
     </div>
 </div>
 
-<p>{{ article.content }}</p>
+<p />  <!-- Poor man spacing -->
+
+{{ article.content }}
 
 {% endblock %}
