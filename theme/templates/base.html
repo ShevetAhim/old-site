@@ -81,7 +81,7 @@
         </div>
         <div class="collapse navbar-collapse navbar-ex1-collapse">
             <ul class="nav navbar-nav">
-                <li{% if False %} class="active"{% endif %}><a href="{{ SITEURL }}/accomodations.html">
+                <li class="{% block accomodation_set_active %}{% endblock %}"><a href="{{ SITEURL }}/accomodations.html">
                     Accomodations
                 </a></li>
                 {% for p in pages %}
