@@ -52,7 +52,7 @@
             <div class="col-md-4 col-sm-6 col-xs-12 text-center row-item">
                 <img class="thumbnail text-center" src="{{ page.image }}">
                 <a href="{{ page.url }}"><h2>{{ page.title }}</h2></a>
-                <p>{{ page.caption }}</p>
+                <p>{{ page.summary }}</p>
             </div>
         {% endfor %}{% endif %}{% endfor %}
     </div>
@@ -73,7 +73,7 @@
             <div class="col-md-3 col-sm-4 col-xs-12 text-center row-item">
                 <img class="thumbnail text-center" src="{{ page.image }}">
                 <h4>{{ page.title }}</h4>
-                <p>{{ page.caption }}</p>
+                <p>{{ page.summary }}</p>
             </div>
         {% endfor %}{% endif %}{% endfor %}
     </div>

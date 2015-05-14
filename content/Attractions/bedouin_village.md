@@ -3,7 +3,7 @@ Date: 2014-11-07 18:56
 Author: Izhar Gurion
 Slug: bedouin-village
 Image: https://lh3.googleusercontent.com/hsm-sqWGGezJvP0JRejL6DUA7TbHhkIMqDG_k-EVb-c=w640-h480-no
-Caption: The village atmosphere is most hospitable. Enjoy walking around the village, experiencing the Bedouin way of life.
+Summary: The village atmosphere is most hospitable. Enjoy walking around the village, experiencing the Bedouin way of life.
 Tags: Bedouin village, Shepherds, Galilee, hospitality
 
 The village atmosphere is most hospitable.
