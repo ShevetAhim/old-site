@@ -1,8 +1,9 @@
 Title: Hiking and bicycling
 Date: 2014-11-07 18:56
-Author: Nagasaki45
+Author: Izhar Gurion
 Slug: nature-reserves
 Image: https://lh4.googleusercontent.com/-r0Fn1wiHy28/Uqw2XtVxRII/AAAAAAAABII/CWnaEQxtVWI/2012-03-04%25252010.13.00edit.jpg?imgmax=800
+Tags: nature reserves, Tzippori river, oak trees, Nazareth Mountains, Eyn Yivka spring, Roman period, hiking, bicycle
 Summary: The nature reserves of Allone Aba and Tzipori river are just around the corner
 
 Our place is situated between two nature reserves, the Alonei Aba nature reserve on the one side and the Tzippori river nature reserve on the other side.
