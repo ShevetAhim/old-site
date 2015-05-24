@@ -49,7 +49,7 @@
     <!-- Three columns of text below the carousel -->
     <div class="row">
         {% for category, pages in categories %}{% if category == 'Attractions' %}{% for page in pages %}
-            <div class="col-md-4 col-sm-6 col-xs-12 text-center">
+            <div class="col-lg-4 col-md-6 col-xs-12 text-center">
                 <img class="thumbnail text-center" src="{{ page.image }}">
                 <a href="{{ page.url }}"><h2>{{ page.title }}</h2></a>
                 <p>{{ page.summary }}</p>
@@ -70,7 +70,7 @@
     <!-- Three columns of text below the carousel -->
     <div class="row">
         {% for category, pages in categories %}{% if category == 'Partners' %}{% for page in pages %}
-            <div class="col-md-3 col-sm-4 col-xs-12 text-center row-item">
+            <div class="col-lg-3 col-md-4 col-xs-12 text-center row-item">
                 <img class="thumbnail text-center" src="{{ page.image }}">
                 <h4>{{ page.title }}</h4>
                 <p>{{ page.summary }}</p>
