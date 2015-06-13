@@ -80,7 +80,7 @@
             <div class="entry-content">
                 <div class="article-content">
                     {% block article_content %}
-                        {% if article.image %}
+                        {% if article.image and not article.hideimage %}
                             <img src="{{ article.image }}" class="img-thumbnail" align="left">
                         {% endif %}
                         {{ article.content }}
