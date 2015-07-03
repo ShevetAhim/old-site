@@ -3,6 +3,7 @@ Date: 2012-07-15 13:33
 Author: Izhar Gurion
 Slug: tipi-tent
 Caption: For single or couple; Free WiFi
+sortorder: 4
 Template: accomodation
 Image: https://lh3.googleusercontent.com/-Ssx1hSR-HIA/Ukq2BM3kABI/AAAAAAAABBM/KRp_0RWPbSI/20130928_155959.jpg?imgmax=800
 Images: https://lh4.googleusercontent.com/-DnnGRwAgkn0/VUqNwbA0aXI/AAAAAAAABtI/JYrX6mG4iks/w642-h543-no/20130928_155917.jpg

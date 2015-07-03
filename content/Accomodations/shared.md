@@ -3,6 +3,7 @@ Date: 2012-07-15 13:33
 Author: Nagasaki45
 Slug: shared-room
 Caption: One bed; Free WiFi
+sortorder: 3
 Template: accomodation
 Image: https://lh3.googleusercontent.com/-LQ2DcuXeo2Y/VZbK9smrZ9I/AAAAAAAACAY/1qMn45lV_Gk/s720/5efa7c83_original_003.jpg
 Images: https://lh3.googleusercontent.com/-LQ2DcuXeo2Y/VZbK9smrZ9I/AAAAAAAACAY/1qMn45lV_Gk/s720/5efa7c83_original_003.jpg

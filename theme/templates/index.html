@@ -16,12 +16,12 @@
 <div id="carousel" class="carousel slide" data-ride="carousel">
     <!-- Indicators -->
     <ol class="carousel-indicators">
-        {% for category, pages in categories %}{% if category == 'Accomodations' %}{% for page in pages %}
+        {% for category, pages in categories %}{% if category == 'Accomodations' %}{% for page in pages|sort(attribute='sortorder') %}
             <li data-target="#carousel" data-slide-to="{{ loop.index - 1 }}" {% if loop.index == 1 %} class="active" {% endif %}></li>
         {% endfor %}{% endif %}{% endfor %}
     </ol>
     <div class="carousel-inner" role="listbox">
-        {% for category, pages in categories %}{% if category == 'Accomodations' %}{% for page in pages %}
+        {% for category, pages in categories %}{% if category == 'Accomodations' %}{% for page in pages|sort(attribute='sortorder') %}
             <div class="item {% if loop.index == 1 %} active {% endif %}">
                 <img src="{{ page.image }}" alt="First slide" class="img-rounded">
                 <div class="container">

@@ -2,6 +2,7 @@ Title: Family studio
 Date: 2012-07-15 13:33
 Author: Izhar Gurion
 Slug: studio-room
+sortorder: 2
 Template: accomodation
 Image: https://lh3.googleusercontent.com/-r3sJBiddkn4/VZbK9i5R20I/AAAAAAAACAY/ouFDCcwYglk/s720/24685c40_original_002.jpg
 Images: https://lh3.googleusercontent.com/-rfqKUmsjMs0/VZbK9nVP8VI/AAAAAAAACAY/ZryxYPJfVxA/s720/6dba391e_original_002.jpg

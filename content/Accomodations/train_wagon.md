@@ -3,6 +3,7 @@ Date: 2012-07-15 13:33
 Author: Izhar Gurion
 Slug: train-wagon
 Caption: Couples room; Air condition; Breakfast; Kitchen
+sortorder: 1
 Template: accomodation
 Image: https://lh6.googleusercontent.com/-7hjrr2Z2FII/UA5qqhkngZI/AAAAAAAABEM/aSOpiIQAaC8/w815-h543-no/IMG_0766.JPG
 Images: https://lh6.googleusercontent.com/-7hjrr2Z2FII/UA5qqhkngZI/AAAAAAAABEM/aSOpiIQAaC8/w815-h543-no/IMG_0766.JPG

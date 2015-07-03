@@ -3,6 +3,7 @@ Date: 2012-07-15 13:34
 Author: Nagasaki45
 Slug: camping
 Tags: camping, nature, family tent, hiking, israel trail
+sortorder: 5
 Image: https://lh6.googleusercontent.com/-j4WY2aTsT4A/UkrDfigRSnI/AAAAAAAABFM/eZ1RBhdWoZE/w1343-h895-no/Photos-642.jpg
 Caption: Your own tent; Free Wifi
 Summary: Camp at our site with your own tent and enjoy the gardens Israeli coastal plains views.
