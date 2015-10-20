@@ -49,6 +49,13 @@ HIDE_SIDEBAR = True
 BOOTSTRAP_THEME = 'readable-old'
 SHOW_ARTICLE_AUTHOR = True
 
+STATIC_PATHS = [
+    'extra/favicon.ico'
+]
+EXTRA_PATH_METADATA = {
+    'extra/favicon.ico': {'path': 'favicon.ico'}
+}
+
 # Plugins
 PLUGIN_PATHS = ["pelican-plugins"]
 PLUGINS = ['sitemap']
