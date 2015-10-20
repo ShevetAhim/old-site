@@ -27,6 +27,10 @@ def clean():
 def build():
     local('pelican -t theme -s pelicanconf.py')
 
+def build_dependencies():
+    local('pip install -r requirements.txt')
+    local('git clone --recursive https://github.com/getpelican/pelican-plugins')
+
 def rebuild():
     clean()
     build()

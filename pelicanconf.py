@@ -48,3 +48,6 @@ DISPLAY_CATEGORIES_ON_MENU = False
 HIDE_SIDEBAR = True
 BOOTSTRAP_THEME = 'readable-old'
 SHOW_ARTICLE_AUTHOR = True
+
+# Plugins
+PLUGIN_PATHS = ["pelican-plugins"]
