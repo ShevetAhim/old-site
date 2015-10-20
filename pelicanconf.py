@@ -51,3 +51,11 @@ SHOW_ARTICLE_AUTHOR = True
 
 # Plugins
 PLUGIN_PATHS = ["pelican-plugins"]
+PLUGINS = ['sitemap']
+
+SITEMAP = {
+    'format': 'xml',
+    'priorities': {
+        'pages': .8,
+    },
+}
