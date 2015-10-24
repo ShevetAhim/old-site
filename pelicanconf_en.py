@@ -6,7 +6,7 @@ AUTHOR = u'Tom Gurion'
 SITENAME = u'Galilee Bedouin Camplodge'
 SITEURL = ''
 
-PATH = 'content'
+PATH = 'content_en'
 
 TIMEZONE = 'Europe/Paris'
 
