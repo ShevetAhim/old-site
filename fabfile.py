@@ -26,6 +26,7 @@ def clean():
         local('mkdir {deploy_path}'.format(**env))
 
 def build(language='en', regenerate=False, publish_conf=False):
+    css_dir_by_language(language)()
     cmd = ['pelican -t theme']
     if regenerate:
         cmd.append('-r')
@@ -35,7 +36,21 @@ def build(language='en', regenerate=False, publish_conf=False):
 
 def build_dependencies():
     local('pip install -r requirements.txt')
+    local('npm install -g rtlcss')
     local('git clone --recursive https://github.com/getpelican/pelican-plugins')
+
+def rtlcss():
+    local('rtlcss -d theme/static/css_source theme/static/css')
+    local('rename rtl\.css css theme/static/css/*')
+
+def ltrcss():
+    local('cp -r theme/static/css_source theme/static/css')
+
+def css_dir_by_language(language):
+    if language == 'en':
+        return ltrcss
+    if language == 'he':
+        return rtlcss
 
 def rebuild(language='en'):
     clean()
