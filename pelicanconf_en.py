@@ -33,7 +33,7 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
          ('You can modify those links in your config file', '#'),)
 
 # Add the accomodations page to those rendered without content
-DIRECT_TEMPLATES = ['index', 'archives', 'accomodations']
+DIRECT_TEMPLATES = ['index', 'archives', 'accomodations', 'email_sent']
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
