@@ -7,7 +7,7 @@ SITENAME = u'Galilee Bedouin Camplodge'
 SITEURL = ''
 THEME = 'theme'
 
-PATH = 'content_en'
+PATH = 'content'
 
 TIMEZONE = 'Europe/Paris'
 
