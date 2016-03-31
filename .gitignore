@@ -1,6 +1,5 @@
-*.pyc
-*.swp
-*.swo
 output/*
 cache/*
+env
+__pycache__
 pelican-plugins
