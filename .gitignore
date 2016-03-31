@@ -4,4 +4,3 @@
 output/*
 cache/*
 pelican-plugins
-theme/static/css/*

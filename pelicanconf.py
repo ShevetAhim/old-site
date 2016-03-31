@@ -5,6 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = u'Tom Gurion'
 SITENAME = u'Galilee Bedouin Camplodge'
 SITEURL = ''
+THEME = 'theme'
 
 PATH = 'content_en'
 

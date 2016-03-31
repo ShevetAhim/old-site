@@ -8,7 +8,7 @@ from __future__ import unicode_literals
 import os
 import sys
 sys.path.append(os.curdir)
-from pelicanconf_en import *
+from pelicanconf import *
 
 SITEURL = 'http://www.galilee-bedouin-camplodge.com'
 RELATIVE_URLS = False
