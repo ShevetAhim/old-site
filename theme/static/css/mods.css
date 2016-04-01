@@ -1,5 +1,10 @@
-/* MISC 
+/* MISC
  * -------------------------------------------------*/
+
+*:not(.glyphicon):not(.fa) {
+    font-family: sans-serif !important;
+    direction: rtl;
+}
 
 body {
     background-color: #FEF8D8;

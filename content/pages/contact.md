@@ -1,32 +1,31 @@
-Title: Contact and Map
-Date: 2011-10-23 16:42
-Author: Nagasaki45
+Title: צור קשר ומפה
+Date: 2016-03-31 20:20
+Author: תם גוריון
 Slug: contact
 
-Feel free to contact us with any question
+בכל שאלה נשמח לשמוע מכם, בטלפון או דרך הטופס הבא.
 
 <!-- Contact form -->
 <p>
-  <form action="//formspree.io/galilee.bedouin@gmail.com" method="POST">
+  <form action="//formspree.io/bros.tribe@gmail.com" method="POST">
     <div class="form-group">
-      <textarea type="text" class="form-control" rows="3" placeholder="Content" name="content"></textarea>
+      <textarea type="text" class="form-control" rows="3" placeholder="תוכן" name="content"></textarea>
     </div>
     <div class="form-group">
-      <input type="email" class="form-control" placeholder="Email address" name="_replyto">
+      <input type="email" class="form-control" placeholder="כתובת אימייל" name="_replyto">
     </div>
-    <button type="submit" class="btn btn-primary">Send email</button>
+    <button type="submit" class="btn btn-primary">שלח</button>
     <input type="hidden" name="_next" value="/email_sent.html" />
   </form>
 </p>
 
 <hr />
 
-Map and directions are available
-[here](https://www.dropbox.com/s/0p8t0eft9mhkwn1/EnglishMap.pdf "EnglishMap").
+בנוסף, המעונייינים מוזמנים להוריד את מפת ההגעה לשבט אחים [כאן](https://www.dropbox.com/s/qhm93kadlk9goz3/HebrewMap.pdf).
 
-Izhar : +972-526-941188
+יזהר: 0526941188
 
-Irit: +972-526-941141
+אירית: 0526941141
 
 <!-- Map -->
 <div class="text-center">

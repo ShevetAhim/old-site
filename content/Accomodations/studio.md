@@ -1,6 +1,6 @@
-Title: Family studio
-Date: 2012-07-15 13:33
-Author: Izhar Gurion
+Title: חדר הסטודיו
+Date: 2016-04-01 20:00
+Author: תם גוריון
 Slug: studio-room
 sortorder: 2
 Template: accomodation
@@ -11,18 +11,16 @@ Images: /images/studio/0.jpg
         /images/studio/3.jpg
         /images/studio/4.jpg
         /images/studio/5.jpg
-Caption: For up to 5 people; Breakfast included; Free WiFi
-Properties: Privet bathroom
-            Up to 5 people
-            Free breakfast
-            Private kitchenette
-            Free coffee and tea
-            2 double bed + one single bed
-            Bed linen and towels included
-            Shady retreat under the olive tree
-            Free WiFi
-Tags: privet room, family vacation, studio, bathroom
-Summary: Our studio is perfect for a family vacation and has a shady sitting area under the old olive tree.
+Caption: מתאים לעד חמישה אנשים וכולל ארוחת בוקר
+Properties: מקלחת ושירותים פרטיים
+            עד 5 אנשים
+            כולל ארוחת בוקר
+            מטבחון עם קפה ותה עלינו
+            שתי מיטות זוגיות ומיטה בודדת אחת
+            כולל מצעים ומגבות
+            זולה בחצר תחת עץ הזית
+            Wifi חינם
+Tags: TODO tags
+Summary: TODO summary
 
-This is 3 bed room (2 double and 1 single) with private bathroom and a small kitchen (with refrigerator, electric plate for cooking and free coffee and tea).
-The room is perfect for a family vacation and has a shady sitting area under the old olive tree. Free breakfast and Wi-Fi. Bed linen and towels are provided.
+בסטודיו שתי מיטות זוגיות ושתי מיטות יחיד. בסטודיו מקלחת ושרותים צמודים ומטבחון. החדר מתאים לאירוח משפחות וישנה פינת זולה מוצלת לשימושכם. אינטרנט חינם.

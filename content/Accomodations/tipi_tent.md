@@ -1,8 +1,8 @@
-Title: Private tipi tent
+Title: הטיפי
 Date: 2012-07-15 13:33
-Author: Izhar Gurion
+Author: יזהר גוריון
 Slug: tipi-tent
-Caption: For single or couple; Free WiFi
+Caption: ליחיד או לזוג
 sortorder: 4
 Template: accomodation
 Image: /images/tipi_tent/main.jpg
@@ -10,15 +10,12 @@ Images: /images/tipi_tent/0.jpg
         /images/tipi_tent/1.jpg
         /images/tipi_tent/2.jpg
         /images/tipi_tent/3.jpg
-Properties: Kitchenette with free coffee and tea
-            Small double bed
-            Free WiFi
-            Ben linen and towels included
-            Free coffee and tea
-            Garden and panorama view
-Tags: tipi, tent, unique, vacation
-Summary: Under the broad carob tree, the Tipi tent offer natural experience to couples or single travelers alike.
+Properties: מטבחון עם קפה ותה עלינו
+            מיטה וחצי
+            Wifi חינם
+            כולל מצעים ומגבות
+            חצר פורחת והרבה נוף
+Tags: TODO tags
+Summary: TODO summary
 
-This is a Tipi tent, snugged under a broad carob tree, shading in its foliage.
-The top of the tent is opened in the summer time to keep the tent vented and cool.
-It contains 1 small double bed and Coffee corner inside the tent. Shared bathroom and Wi-Fi. Bed linen and towels are provided.
+הטיפי בנוי מסנדות הכפותות בחבל ומכוסה בד, משרה אווירה נעימה ואינטימית. בטיפי פינת קפה ותה. יש בו מקום לזוג וילד. הנוף והחצר צופים לנחל ציפורי עד לים.

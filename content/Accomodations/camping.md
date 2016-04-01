@@ -1,17 +1,13 @@
-Title: Camping
-Date: 2012-07-15 13:34
-Author: Nagasaki45
+Title: קמפינג
+Date: 2015-03-31 20:00
+Author: תם גוריון
 Slug: camping
-Tags: camping, nature, family tent, hiking, israel trail
+Tags: TODO tags
 sortorder: 5
 Image: /images/camping/main.jpg
-Caption: Your own tent; Free Wifi
-Summary: Camp at our site with your own tent and enjoy the gardens Israeli coastal plains views.
-Properties: Shared bathroom
-            Garden view
-            Panorama to Israeli coastal plain
+Caption: עם האוהל שלכם
+Summary: קמפינג בשבט אחים עם האוהל שלכם - להנות מהטבע, החצר הפסטורלית ונופי הגליל התחתון.
+Properties: שירותים משותפים
+            נוף פנורמי לנחל ציפורי
 
-If you are on the budget, you are more then welcome to camp at our place with your own tent.
-The camping site is located in our garden with views to the Tzipori river and the sea.
-
-As campers you can enjoy all the facilities we offer: Cooking in the shared kitchen at the main tent and use our showers and toilets.
+העמוד יעלה בקרוב.

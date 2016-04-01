@@ -1,14 +1,13 @@
-Title: Hiking and bicycling
+Title: טיולים רגליים ואופניים
 Date: 2014-11-07 18:56
-Author: Izhar Gurion
+Author: יזהר גוריון
 Slug: nature-reserves
 Image: /images/posts/nature_reserves.jpg
-Tags: nature reserves, Tzippori river, oak trees, Nazareth Mountains, Eyn Yivka spring, Roman period, hiking, bicycle
-Summary: The nature reserves of Allone Aba and Tzipori river are just around the corner
+Tags: שמורות טבע, נחל ציפורי, עצי אלון, נצרת, עין יבקע, מעיין הסוסים, הליכה, אופניים
+Summary: שמורות הטבע של אלוני אבא ונחל ציפורי עוטפות את השבט מדרום ומצפון.
 
-Our place is situated between two nature reserves, the Alonei Aba nature reserve on the one side and the Tzippori river nature reserve on the other side.
-Aloney Aba is a 235-acres nature reserve, home to the Valonia oak trees and Palestine oak.
-The Tzippori Brook flows down the Nazareth Mountains through the valley below the village, where Eyn Yivka spring is located.
-The spring flows into a large pond with walls constructed during the Roman period.
-The spring is surrounded by pomegranate orchards and green patches of grass, which stretch over an old road along the river leading to the Carmelite Monk Wheat Mill from the Ottoman period.
-You can tour the national reserves by hiking or by bicycle (bicycle rental available at 24 hrs notice).
+ויש פה בסביבה הרבה מה לעשות, למשל לצאת ברגל דרך הכפר שלנו בכיף עשר דקות עד לשמורת "אלוני אבא". בשמורה שבילי הליכה נוחים ו"זולות" מדהימות (מקומות לשבת ולנוח). ביער, כמו שאומרים אצלנו, מיגון עצים יחודי לאזור בניהם אלון התבור, אלון מצוי, חרוב, לבנה רפואית, אלה ארץ ישראלית, כליל החורש ואשחר. בין העצים מרבדי כלניות נרקיסים וציבעוני ההרים, בין הסלעים כמובן אין סוף רקפות והכל על הרקע הירוק ירוק הזה. אז מומלץ לטייל בשמורה מסלול קצר או ארוך ולהנות. עכשיו זאת העונה המתאימה.
+
+אמרנו שיש הרבה מה לעשות בסביבה. אז עוד אפשרות היא לצאת דרך הכפר שלנו לנחל ציפורי ולמעיין "עין יבקע". או שיורדים ברכב (פרטי) 5 דק' עד למעיין או ברגל כ- 40 דק', בדרך נוף מדהימה. המעיין עצמו הינו בריכת מים רחבת ידיים נתמכת בקירות מהתקופה הרומית. מסביב למעיין בוסתני רימונים וכרי דשא, מקום מדהים לחנות בו ולהנות מהסביבה. אפשר להמשיך לאורך הנחל ובוסתני הרימונים, המטעים וחלקות הירקות שלגדותיו עד לטחנת הקמח העתיקה הנקראת "טחנת הנזירים", על שם הנזירים הכרמליתים שרכשו אותה עוד בתקופה העותומנית.
+
+אם בשבת פנוייה, בחג, או סתם באמצע השבוע, נוף עוצר נשימה נמצא ממש מעבר לפינה.

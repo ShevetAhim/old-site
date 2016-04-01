@@ -1,7 +1,7 @@
-Title: Recommandations
-Date: 2012-01-07 18:52
-Author: Nagasaki45
+Title: ספר אורחים
+Date: 2016-03-31 20:00
+Author: תם גוריון
 Slug: guestbook
 comments: enabled
 
-Please share your experience with us in our guest book
+הנה מה שחושבים עלינו האורחים. אם גם אתם נהניתם אצלנו, אתם מוזמנים לשתף...

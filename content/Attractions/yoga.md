@@ -1,8 +1,8 @@
-Title: Yoga on the hill
+Title: יוגה על הגבעה
 Date: 2015-04-25 14:56
-Author: Irit
+Author: אירית גוריון
 Slug: yoga
 Image: /images/posts/yoga.jpg
-Summary: Join us to yoga exercises early in the morning.
+Summary: הצטרפו אלינו לאימון יוגה השכם בבוקר.
 
 The page is under construction, please come back later...

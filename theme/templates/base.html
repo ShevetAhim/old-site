@@ -60,14 +60,14 @@
 
     <!-- Bootstrap -->
     {% if BOOTSTRAP_THEME %}
-        <link rel="stylesheet" href="{{ SITEURL }}/theme/css/bootstrap.{{ BOOTSTRAP_THEME }}.min.css" type="text/css"/>
+        <link rel="stylesheet" href="{{ SITEURL }}/theme/css/bootstrap.{{ BOOTSTRAP_THEME }}.min.rtl.css" type="text/css"/>
     {% else %}
         <link rel="stylesheet" href="{{ SITEURL }}/theme/css/bootstrap.min.css" type="text/css"/>
     {% endif %}
     <link href="{{ SITEURL }}/theme/slick/slick.css" rel="stylesheet">
     <link href="{{ SITEURL }}/theme/slick/slick-theme.css" rel="stylesheet">
     <link href="{{ SITEURL }}/theme/css/font-awesome.min.css" rel="stylesheet">
-    <link href="{{ SITEURL }}/theme/css/style.css" rel="stylesheet" type="text/css"/>
+    <link href="{{ SITEURL }}/theme/css/style.rtl.css" rel="stylesheet" type="text/css"/>
     <link href="{{ SITEURL }}/theme/css/mods.css" rel="stylesheet">
 </head>
 <body>
@@ -86,7 +86,7 @@
         <div class="collapse navbar-collapse navbar-ex1-collapse">
             <ul class="nav navbar-nav">
                 <li class="{% block accomodation_set_active %}{% endblock %}"><a href="{{ SITEURL }}/accomodations.html">
-                    Accomodations
+                    אירוח
                 </a></li>
                 {% for p in pages %}
                     <li{% if p == page %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ p.url }}">
@@ -95,7 +95,7 @@
                 {% endfor %}
             </ul>
             <ul class="nav navbar-nav navbar-right">
-                <li><a href="{{ SITEURL }}/{{ ARCHIVES_URL | default('archives.html') }}"><i class="fa fa-th-list"></i><span class="icon-label">Blog</span></a></li>
+                <li><a href="{{ SITEURL }}/{{ ARCHIVES_URL | default('archives.html') }}"><i class="fa fa-th-list"></i><span class="icon-label">בלוג</span></a></li>
                 <li><a href="http://www.shevet-ahim.co.il/"><img src="{{ SITEURL }}/extra/heb_flag.png" /> <span>עברית</span></a></li>
             </ul>
         </div>

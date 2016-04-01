@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'Tom Gurion'
-SITENAME = u'Galilee Bedouin Camplodge'
+AUTHOR = u'תם גוריון'
+SITENAME = u'שבט אחים'
 SITEURL = ''
 THEME = 'theme'
 
@@ -11,14 +11,14 @@ PATH = 'content'
 
 TIMEZONE = 'Europe/Paris'
 
-DEFAULT_LANG = u'en'
+DEFAULT_LANG = u'he'
 
 ARTICLE_URL = '{category}/{slug}.html'
 ARTICLE_SAVE_AS = ARTICLE_URL
 
 # Keywords and metadata
-DESCRIPTION = 'Naturally slow down in the Bedouin village of Tabash. unique experience guaranteed!'
-KEYWORDS = ('bedouin hospitality', 'camplodge', 'galilee', 'tent', 'hostel')
+DESCRIPTION = 'TODO description'
+KEYWORDS = ('TODO tags')
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
