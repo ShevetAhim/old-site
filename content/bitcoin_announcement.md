@@ -1,17 +1,13 @@
-Title: We are pleased to announce: Bitcoins accepted here!
+Title: שבט אחים שמחים להכריז: אצלנו אפשר לשלם בביטקוין!
 Date: 2013-03-19 21:05
-Author: Irit Gurion
+Author: תם גוריון
 Category: General
 Slug: bitcoins-announcement
 Image: http://upload.wikimedia.org/wikipedia/commons/5/50/Bitcoin.png
 
-We are very happy to be the first tourism business in Israel to accept
-Bitcoins for all of its offered services.
+אנו מתרגשים מאוד להיות עסק התיירות הראשון בארץ המאפשר ללקוחותיו לשלם בביטקוין עבור שלל השירותים שהוא מציע.
 
-Bitcoin, for those who still do not know, is the first decentralized
-digital currency in the world. And as such it makes payment a lot
-easier. We will not describe it here in details, but here is a good
-start:
+ביטקוין, למי שלא מכיר, הוא המטבע הדיגיטלי המבוזר הראשון מסוגו, ווכזה הוא הופך פעולות רבות לקלות יותר ונוחות יותר. לא נרחיב כאן על המטבע עצמו. אפשר למצוא את כל המידע הנחוץ באתר הקהילה הישראלית של מטבע הביטקוין או בוידאו הבא:
 
 <p align="center">
     <iframe src="http://www.youtube.com/embed/Um63OQz3bjo" height="315" width="560" allowfullscreen frameborder="0"></iframe>

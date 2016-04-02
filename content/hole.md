@@ -1,22 +1,17 @@
-Title: A hole in the yard
+Title: בור בחצר
 Date: 2012-12-02 20:53
-Author: Nagasaki45
+Author: תם גוריון
 Category: General
 Slug: hole
 
-We saw this special curved rock while ago when it was in the middle of
-our horse's stable.
+כבר מזמן שמנו לב לצורה של הסלע הזה בחצר. עוד כשהיה בתוך האורווה.
 
-Recently, when we started to work on the camplodge garden we decided to
-dug it out. The dipper we dug we realized that it has a round shape and
-it can collect water naturally, as it already happened underground.
+עכשיו, כשסידרנו את חצר השבט התחלנו לחפור סביבו על מנת לגלות אותו. ככל שהעמקנו הבנו שיש לו צורה עגולה ויש מצב לנקז אליו מים כמו שקורה באופן טבעי מתחת לפני השטח.
 
-Last Saturday, with a little help from some friends, we dug it all the
-way to it's rocky bottom. Soon will come the rain which will do its part
-of the work: cleaning the mud and filling the hole with water.
+ביום שבת האחרון, עם עזרה מחברים, נכנסו בבור. חפרנו וחפרנו עד שהגענו לשכבת סלע בקרקעית. בקרוב יבואו גשמים, יעשו את חלקם בעבודה, ינקו את הבוץ והבור יתמלא מים.
 
-What will be next with the hole? We still does't know.
+מה יהיה הלאה עם הבור הזה, ימים יגידו…
 
-But you can help us to decide...
+או אפילו יותר טוב: אתם תגידו!
 
 <iframe src="http://www.youtube.com/embed/LrsdXxdcMpE" frameborder="0" width="480" height="360"></iframe>
