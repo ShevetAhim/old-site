@@ -11,7 +11,7 @@ PUBLISHCONF=$(BASEDIR)/publishconf.py
 SSH_HOST=nagasaki45.com
 SSH_PORT=22
 SSH_USER=nagasaki45
-SSH_TARGET_DIR=~/sites/shevet-ahim.nagasaki45.com/output
+SSH_TARGET_DIR=~/sites/www.shevet-ahim.co.il/output
 
 DEBUG ?= 0
 ifeq ($(DEBUG), 1)
