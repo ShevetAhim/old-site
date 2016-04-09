@@ -2,7 +2,7 @@ Title: Yoga on the hill
 Date: 2015-04-25 14:56
 Author: Irit
 Slug: yoga
-Image: https://lh5.googleusercontent.com/-YOAx1V9h_40/UTQ4qr2gb-I/AAAAAAAAA90/-vwDOmuddCQ/w724-h543-no/IMG_5228.JPG
+Image: https://lh3.googleusercontent.com/o7oY_W6iCHBDsRG8YsVrW52Le42HQlBQxlgHiHX5lU2EairkXrtofmA70jeAPZVQ0I6C5q3vrqxP-IjOrqif2hj_OuahiUY4b4RBMuH0DpfrQ6dH7HOcZBgNWfnUcpc2G-ENRo3Fec7q64X4l40GpFz14uTZAzOe_FutxGfv4f4tGCz0P35adlKOeIUd8oZKifTFVUlfBZX-x65XXi50YWHgyoKZzXqEwnpX9uFU59p3kyTGccE0ElELgy7dgU7y_WbioFF0Afd-RH93RQRfBdr0aL_-JY6KMzW2wOI0jnzlRyTe3E4wBamKBoKC0a9TjftdEPh8RN_vz1Ax3G6w4DlAXM3KKe9BtKNkFWON43wyqs13dzE6rBM3A4p2EMuuMB9HgAzXEGwL96NyHRa5cziHNalrhPrunaOKXc6TBw32s26_SEVMrejC6Fu6ZUNqb6uFk-UC_MFvlx_dJ6EYoxBYlz6tIGXo9WfXdclcfzA-Josul-RHs8JilRhPL9xtu_Kcd6zhosStuKmLhG-BINrnAFmE1eu48JPpootHogbQkQsslNogl7SWDS7Y_5s43FGM=w720-h540-no
 Summary: Join us to yoga exercises early in the morning.
 
 The page is under construction, please come back later...
