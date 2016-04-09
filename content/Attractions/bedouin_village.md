@@ -6,7 +6,5 @@ Image: /images/posts/bedouin_village.jpg
 Summary: The village atmosphere is most hospitable. Enjoy walking around the village, experiencing the Bedouin way of life.
 Tags: כפר בדואי, רועים, גליל, הכנסת אורחים
 
-The village atmosphere is most hospitable.
-It is most pleasant to walk around the village and get a sense of the Bedouin way of life and the different rhythms of life through the changing seasons, for example, sowing the fields in winter, harvesting in spring, picking the olives  in the end of summer and the famous wedding season from spring to end of summer.
-You can take part in those activities and be a part of it.
-In the village we have a small grocery shop, a bakery and a local restaurant.
+הכפר חילף טבאש הוא כפר בדואי הידוע באווירה הנעימה השוררת בו ובהכנסת האורחים החמה.
+מסיבוב קצר בכפר תוכלו להתרשם מאורח החיים המקומי ומפעילות התושבים לפי עונות השנה - הזריעה, הקציר, עונת מסיק הזיתים ועונת החתונות המפורסמת שלנו, כמו גם רועי העדרים ומגדלי הצאן והבקר. בכל אלה, אם רק תרצו, תוכלו לקחת חלק ולהנות גם אתם מחוויה אותנטית וייחודית.

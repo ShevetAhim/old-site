@@ -5,4 +5,4 @@ Slug: yoga
 Image: /images/posts/yoga.jpg
 Summary: הצטרפו אלינו לאימון יוגה השכם בבוקר.
 
-The page is under construction, please come back later...
+פעם בשבוע מתקיימת סדנת יוגה במתחם, ובתיאום מראש אורחינו מוזמנים להיצטרף אלינו לשעה של רגיעה ונחת.

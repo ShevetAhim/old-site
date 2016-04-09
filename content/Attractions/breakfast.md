@@ -6,7 +6,4 @@ Image: /images/posts/breakfast.jpg
 Summary: תתחילו את היום עם ארוחה מקומית, בריאה ועשויה באהבה עם מרכיבים מחצר השבט.
 Tags: ארוחת בוקר, עבודת יד, אורגני, יוגורט
 
-Our farm animals will make sure you're fed well: Hannale and Leale are in charge of our diary and the chickens, with Zecaria the roster at the lead, stroll and feed around our yard and provide us with excellent eggs for your morning omelet.
-We also share our self-grown vegetables and fruits, depending on the season.
-We bring fresh bread every morning from the village bakery, and serve the breakfast neatly on a tray.
-Our spoiling breakfast will charge you with positive energies for the wonderful coming day.
+ארוחת הבוקר המקומית שלנו כוללת את מגוון התוצרת הביתית בהתאם לעונות השנה. לגבינות ולמוצרי החלב אחראיות חנהל'ה ולאלה'ה עיזותינו החביבות. לביצים האורגניות אחראי זכריה התרנגול המפואר והוותיק ביותר בשבט והרמון התרנגולות שלו, המסתובבות חופשי בחצר. הירקות מוגשים טריים על פי העונה מגינת הירק. כל אלו מתקבצים יחדיו למגש יפה ומסודר, בארוחת בוקר המוגשת לחדרכם שתפנק אתכם ותעשיר אתכם באנרגיות ליום שבפתח.
