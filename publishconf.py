@@ -21,4 +21,4 @@ DELETE_OUTPUT_DIRECTORY = True
 # Following items are often useful when publishing
 
 DISQUS_SITENAME = "shevet-ahim"
-# GOOGLE_ANALYTICS = 'UA-62733922-1'
+GOOGLE_ANALYTICS = 'UA-62733922-3'
