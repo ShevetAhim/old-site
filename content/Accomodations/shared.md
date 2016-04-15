@@ -15,7 +15,6 @@ Images: /images/shared/0.jpg
         /images/shared/6.jpg
         /images/shared/7.jpg
 Properties: מטבח מאובזר
-            כולל מצעים ומגבות
             תה וקפה עלינו
             Wifi חינם
             שירותים ומקלחות משותפים
