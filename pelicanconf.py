@@ -51,8 +51,7 @@ BOOTSTRAP_THEME = 'readable-old'
 SHOW_ARTICLE_AUTHOR = True
 
 STATIC_PATHS = [
-    'extra/favicon.ico',
-    'extra/logo.png',
+    'extra',
 ]
 EXTRA_PATH_METADATA = {
     'extra/favicon.ico': {'path': 'favicon.ico'}
