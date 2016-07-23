@@ -17,8 +17,8 @@ ARTICLE_URL = '{category}/{slug}.html'
 ARTICLE_SAVE_AS = ARTICLE_URL
 
 # Keywords and metadata
-DESCRIPTION = 'TODO description'
-KEYWORDS = ('TODO tags')
+DESCRIPTION = 'שבט אחים הינו מתחם אירוח לקבוצות, משפחות ויחידים המחפשים טבע ופרטיות, ומעוניינים לטיול בקצה המערבי של הגליל התחתון באופניים, ברגל או ברכב.'
+KEYWORDS = ('אירוח קבוצות', 'אוהל אירוח', 'אירוח בדואי', 'אוהל בדואי', 'גליל תחתון')
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None

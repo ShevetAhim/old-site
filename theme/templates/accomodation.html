@@ -1,8 +1,21 @@
 {% extends "article.html" %}
 
 {% block meta %}
-        <meta name="keywords" content="accommodations,dormitory,camping,private,tipi,tent" />
-        <meta name="description" content="Galilee Bedouin Camplodge offer a vast variety of accomodation types to choose from" />
+  {% if article.author %}
+    <meta name="author" content="{{ article.author }}" />
+  {% else %}
+    <meta name="author" content="{{ AUTHOR }}" />
+  {% endif %}
+  {% if article.tags %}
+    <meta name="keywords" content="{{ article.tags|join(',')|striptags }}" />
+  {% else %}
+    <meta name="keywords" content="אוהל מרכזי,קרון אירוח,טיפי,דירת סטודיו" />
+  {% endif %}
+  {% if article.summary %}
+    <meta name="description" content="{{ article.summary|striptags|escape }}" />
+  {% else %}
+    <meta name="description" content="בשבט אחים תוכלו לבחור ממגוון אפשרויות אירוח, החל מאוהל מרכזי גדול ועד קרון בריטי משוחזר או טיפי" />
+  {% endif %}
 {% endblock %}
 
 {% block article_content %}
