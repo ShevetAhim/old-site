@@ -1,4 +1,4 @@
-Title: חץוקשת
+Title: חץ וקשת
 Date: 2015-04-25 12:56
 Author: יזהר גוריון
 Slug: archery
