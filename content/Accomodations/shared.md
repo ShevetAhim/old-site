@@ -1,29 +1,25 @@
-Title: Communal dormitory tent
+Title: The White Khan
 Date: 2012-07-15 13:33
 Author: Nagasaki45
 Slug: shared-room
 Caption: One bed; Free WiFi
 sortorder: 3
 Template: accomodation
-Image: https://lh3.googleusercontent.com/-LQ2DcuXeo2Y/VZbK9smrZ9I/AAAAAAAACAY/1qMn45lV_Gk/s720/5efa7c83_original_003.jpg
-Images: https://lh3.googleusercontent.com/-LQ2DcuXeo2Y/VZbK9smrZ9I/AAAAAAAACAY/1qMn45lV_Gk/s720/5efa7c83_original_003.jpg
-        https://lh3.googleusercontent.com/-mbhvzoGFPu4/VZbK9tbKK2I/AAAAAAAACAY/btitJoRd-YU/s720/5be95706_original_002.jpg
-        https://lh3.googleusercontent.com/-jFivW-Jst-Y/VZbK9kyN58I/AAAAAAAACAY/1mOksgy3I1I/s720/82afd23e_original_002.jpg
-        https://lh4.googleusercontent.com/-O_ndUl2zQbg/UkrDiEQd88I/AAAAAAAABFY/RfN4qrqMlSU/w1343-h895-no/Photos-543edit.jpg
-        http://lh3.googleusercontent.com/-ajgex9S4mlk/Uqw03Q0JgGI/AAAAAAAABH0/xKz8azuq-Js/397030_403248876419835_905442173_n.jpg?imgmax=640
-        https://lh3.googleusercontent.com/-CPRlqYPMVCk/VZbK9ui_wSI/AAAAAAAACAY/VIoCH_QoK-M/s720/412e3cfd_original_002.jpg
-        https://lh3.googleusercontent.com/-dwD3yCTZA94/VZbK9qJfIqI/AAAAAAAACAY/K0ka9CypegA/s720/824298eb_original_002.jpg
+Image: https://lh3.googleusercontent.com/7eFkFZAxIk48ZKaLfmvTzUPNQZodw2kcIQtsRROxRi05oHGX8xxomvllTGURe3eVz_XstqDaQ4iaeqms_q-qnDlpZWtFQXzkVwJYZAWJa-2e2b46fhZvWlA-4q92VWIC4EOVBs2cM95LdTGkODKsbTqdjjzo9W9fOF9aC0Ntss8gvQtFRoX9OIftIWxKQsxUbv4he4tHWVzpXbI1Sir__UKLWxVl-QR1ER8PHkMkRjezHMy_ZAttYtPTu298ZMXCB_-wX4eQYRFIghV1c8-BXTTXfnIU39LKpvQmuG8bxijPI4ZRLyw8LUAQ6pv1YDMz0kevyDL-tmFmt4kmsQqnAjW9DlIz88ouZ3fQvBD12r-LQmtgPcN7dT_q7nI_SqAGrLN2kgdsDDqizK3aq0gLYiPCXXSIc-OJCppoGW96p-MfyYZqdF7gXXGiZef3UEb3QXJOx3WdOTmtXHHd83Ki1KgEed_kOIN-MmsLDKCPheTYuBh17Z99VatE-vtYuMHCswSdopJX0WJX2vKEa8Pk44YHUz0lS7GB5zcmYDGqw-rlCNCXkAaFD7uYJKAfQ9kTnycLuBmlsRe211MwLbSr2LZu9I3C10LkXZ7E9OoFQcEFGnAkvVnM2g=w1672-h940-no
+Images: https://lh3.googleusercontent.com/7eFkFZAxIk48ZKaLfmvTzUPNQZodw2kcIQtsRROxRi05oHGX8xxomvllTGURe3eVz_XstqDaQ4iaeqms_q-qnDlpZWtFQXzkVwJYZAWJa-2e2b46fhZvWlA-4q92VWIC4EOVBs2cM95LdTGkODKsbTqdjjzo9W9fOF9aC0Ntss8gvQtFRoX9OIftIWxKQsxUbv4he4tHWVzpXbI1Sir__UKLWxVl-QR1ER8PHkMkRjezHMy_ZAttYtPTu298ZMXCB_-wX4eQYRFIghV1c8-BXTTXfnIU39LKpvQmuG8bxijPI4ZRLyw8LUAQ6pv1YDMz0kevyDL-tmFmt4kmsQqnAjW9DlIz88ouZ3fQvBD12r-LQmtgPcN7dT_q7nI_SqAGrLN2kgdsDDqizK3aq0gLYiPCXXSIc-OJCppoGW96p-MfyYZqdF7gXXGiZef3UEb3QXJOx3WdOTmtXHHd83Ki1KgEed_kOIN-MmsLDKCPheTYuBh17Z99VatE-vtYuMHCswSdopJX0WJX2vKEa8Pk44YHUz0lS7GB5zcmYDGqw-rlCNCXkAaFD7uYJKAfQ9kTnycLuBmlsRe211MwLbSr2LZu9I3C10LkXZ7E9OoFQcEFGnAkvVnM2g=w1672-h940-no
+        https://lh3.googleusercontent.com/gGm_dDSMGL1RmmCxeG82ZPF6WwxA_ja8pS_B6w1ZoBxl5pXYfISSSVAHGM7LdqRf0f37zME2gqjDRxO9IsPBMgK0Fktqv60sAQkyf2I4YUIh9FnFlYX0geo7CI_ZkJMLSvPcjevw9Ew_mShunibNgYZDcSqVMFLxNvhyQ9Dc0Ou9JdemJSjoYF3IWLgGWmlwDp9yrOBcbRt4-7ZldSAXx5E01YlmA2Cm1ttaDbOZPFOmNPG_I43oU3H41Gpdes61h_Ox-dodpDC_HSnDkAGJYTVSiCrW-yxX9d3oLl5acgYGsttNQPPA3xNqWkVJL4OTs1Z3a6-eTm-i8hDxf5OaEzVdbOZZvdHVB8l5-1EDKDg3ctrx99BPLEhCf4y6BnKdLNx26umlVwh_oHd55f4P8NN0c09cGtyihEOm1mBl-NUYwfmP_zNXmylKC5PTuLmLUf4AkAwP54_KwlWk8C-O6lCiM5wt6MmyfqfNKDfVoM0p0-GaAzRE6GuKjBQLPGR2TIpyriGAkYlzMmjN7qhMJGM0q_PdFm95HmWn732gA0-jMu5IYH4oRNkr3_I_PO3sFeYpDrCVsm7r6nsy8o1PtSgLNJs3fznW6AGmp2Hu86tRsYpijPRNnQ=w1672-h940-no
+        https://lh3.googleusercontent.com/H8-aesWBUVrgBqVpBQEyTO7JAvYk9swdJ9IoaGRb_vJoRCzdvajq56jwXO_oCpcp1GWIGMCSXf3N74VqIAGyft-wG8e3Px6U5rJu4G5hDx8k7vPoo9jKeljjXCBAaUKGHmDqgUPYDcAg_TUqd_y0DAjpg5C7h4SU7f1ZyKjqHDl4PjMOdw8vTRkmHyfk47o-QXkkMTXAhdb0TNC6Z1B2t-Eac6m_yaxc9GWuomnrnb95YY_5wAb6HA1Yx4leMbFGRt4FJDVggKBnU31VgAB3-R_9_-yFSQSMwDWW1ZubxEFEY_9k_NGX7BlJ08KlEvvVoTxVuexjTSH4yHE1TQS0tCwpAcj5EgKO_slXX9oyhn15MAl3iKtRdG0hIcA4-sL_9JHxYOY2Y0wAgSVl5c-brJNn0emi3LoHfiJYdXty1DYcflgeYQWhqWvrMkoiDSy_qRH2gmu1Mo5d63Qn-UcT62WQXsQ2Q89FhtlcCfKUI-qHACLE2VRi-JBWDtF0eXezB4Q7MaMFgjq_NFYqOrQnSkphpxyC7gFE1I0N0XMZ9r83MdWj5mtnbVm5SAxocEnUFsZCcBE5JPGSnS7t6FSP62nkFpXdLoaZMZx76_qk9AxbSe_XPmvuRg=w1672-h940-no
+        https://lh3.googleusercontent.com/DiY7XG8ACC8hMMxraT2m8WvT98QraaYV1C3XMMF1bUrOZCkmc3c27wLEjD5VB60r3dpCFAsg-iZTgVBTADKn0lpE0vsMxURke-1tbxqbWtR4RIVamEq5-NRlMF5dxcGPQbEHNa7D7LKm09mviEeYmqtwe6sAgRmYci4FeWYG5waxAURNK5iyYmmi65V3tDSxjsa3KlACWPJoV_K1NTFNCImNZvt3WFR6tLKq4cP1GTpwNkhL5yOjMygVaAryeOT-BPUHKUHNoLBzLc9Fkmrzq9g4-Ceo1-5AuF9mnD5PrjUxN-bHqqR_iN3DyjBxvQXqx0OMSLOr6LSG8c5lZfkbJVtxjVDA5sl54yNE87Da1N5Kwlzqj57lwioAiEXDPJk5OtFs2cFQU2A415h6JAIlAB2FGLs82Rl3Yq2VRJ6NpPUlVr1jxiHfKMR_RTNnAIyDLcnh-hNtVx4VDz3TDn7xayoQypKZ17_7c0k5Z5NiNmKK7ft71T4MJau_V87u4VclXcAC4mtSbJZ27wt-YJRNOesnCiXEX0HLCyjiM5LCLXEGIFkMJl9JzmaUkYAd1bz7WDPT2zqshSDSTBaAuiQ1drKlUVgTVXDvl72yg2WiAbCD0qaMY_apMA=w1672-h940-no
+        https://lh3.googleusercontent.com/36bMJHEjdxCu9m7-e2XefD-TAH7sZ_j-8b3E9wNqLiWRL4kNBb9U_zeX4B1p3SFvXkAejj4JMyMckTQYiH3KreeZXTofAyl7FveDKqjb68WQnS6RmjI2G2U4Ag-kEJvPuYzbI0Gdmlz53gKa_nc4AbBSBhW2EiOwwBeRSuAuxW34yZAOpefgBwc3tBdc5dtNqKPqJIDQGDakMGovRz7uClhqWCLHGCbnbjFH55uo1t9zNcjoL39oF4-hHAesSblIuyCXnmrjA9Q6I427fZ3kGrnjS0JaB_wWZPLx4dzt5dXaVxsi-NoHzOu0kixdci8RHh6kGPXjMMPrp-z4y2xRMq3iFBU_8s-bM_P_UDRupe7tiP3i-mfDIvTo5upMgSF8A6DYE27FT73p7MdpJ58saTA77VjHOxXrNHV063yasjcgErM_epKFflwVFRlvu5hXRI9SguzTLc4zcsaZ2boZeN3yZnnfY0I-kopw7r078wl26RREeuSoNaL24-B5LiaFIdG1L6EmWoHRaxGb2tiumLUXlobu8I4TAGOo-TXJnc4gRDw2jE0Fh5MbI4RilLYmbJ9y11HC0J-wNQG9hXv3r1PcVQktIhvMEGPhwEGTVE-rPlakQ7OQIQ=w1626-h940-no
+        https://lh3.googleusercontent.com/AyZivrSXdUgMZ8l5uXe6ni6N1BERNsyI2YPEPE-lLAgBShjkYSKDAc9VZDTWVAslYCTXXcOeHIb05Z3e0hHczWQouX-sGyTlQpDRHvnGauNSoiKhp-69vSIgk3-nzWQJld711Yeulw6Cx6KbWjJZfwJnzAOj-ra_csZAnmOiouEc_MfekSo2Bopt9rxm9PLbsmUFSc8KtWjVe_SBdeukHnytHPZu2pzdJu3PKk-_I6CyJFzibL0J_uiMq5j9FcCh99sdsEPIuvAM3dAv3Jjgvut3r3m2LSM7jqQh-aYAlpoeh5UKso0rFuYknap73Ed0MMVFgn7CKi-GxVXjTOazF8H73IVPaLvW-PY6ZPXAFzer75T239n5aVqCpiWHsdVymIY_dYP9E6W2t0RCv5wlbPFwQiETXzLOoYb8Z3TvB_bkWe15W9L4MokyAy0ZMioHrM3xpYPh_BuNIkmmswlo7DmDtM3ejlytWC8K36ZSFhX3FBPp-6WAuZNXs3U41nGSjFhOoN5bAzz5GbJ2BGzw1q5NqITLUriIaEHdit8d_JYhp3mmzbJpTmVLpIgKHvqV99AKAKZW3eB3tgkI9T5ar8p6vD_oACOR8DmqQO9j82iC6tW5WmLwHA=w1672-h940-no
 Properties: Fully equiped kitchen
             Bed linen and towels included
             Free coffee and tea
             Free WiFi
             Shared bathroom
-            Up to 25 people
-Tags: Dormitory,Shared room,Bedouin tent
-Summary: 15-Bed shared dormitory on a suburban environment. Chill-out in the spirit of the Bedouin hospitality.
+            Up to 25 guests
+Tags: Dormitory,Shared room,khan
+Summary: 25-Bed shared dormitory on a suburban environment. Chill-out in the spirit of the Bedouin hospitality.
 
-Bed in 15-Bed Dormitory: This is a large tent with 15 single beds/mattresses (The tent can be reserved for groups, and number of beds can be increased to 25).
-Outside the tent is a spacious shaded chill-out area built in the spirit of the Bedouin hospitality, with views of the garden.
-The tent has shared kitchen fully equipped and bathroom and has a wood-burning stove during winter and is vented in the summer time.
-Free coffee and Wi-Fi.
-Bed linen and towels are provided.
+The White Khan is located at the center of our site. During the winter it is warmed with wood-burning stove, allowing our guests to enjoy the warm and cosy atmosphere even on the coldest days. At the summertime the Khan is open and calm wind from the wadi flows through its windows. There is a fully equipped kitchen In the Khan for your use, including refrigerator, hob, stove, sink with hot water and cooking / serving utensils. The Khan floor is covered with mats, and there are many mattresses and pillows for your convenience. Outside is a spacious shaded chill-out area built in the spirit of the Bedouin hospitality, with views of the garden. There are also a  place for campfire and comfortable sitting areas.
+Guests of the white Khan have free WiFi access and shared toilets and showers. Bed linen and towels are provided.
