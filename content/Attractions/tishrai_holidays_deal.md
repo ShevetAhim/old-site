@@ -1,4 +1,5 @@
 Title: מבצע לרגל החגים
+Status: draft
 Date: 2016-08-20 16:40
 Author: יזהר גוריון
 Slug: Tishrai-holidays-deal
