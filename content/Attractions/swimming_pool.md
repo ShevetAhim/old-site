@@ -1,4 +1,5 @@
 Title: Summer deal - cool and refreshing
+Status: draft
 Date: 2015-05-10 18:56
 Author: Izhar Gurion
 Slug: swimming-summer-deal
