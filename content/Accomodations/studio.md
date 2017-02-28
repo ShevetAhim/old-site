@@ -4,13 +4,13 @@ Author: Izhar Gurion
 Slug: studio-room
 sortorder: 2
 Template: accomodation
-Image: https://lh3.googleusercontent.com/-r3sJBiddkn4/VZbK9i5R20I/AAAAAAAACAY/ouFDCcwYglk/s720/24685c40_original_002.jpg
-Images: https://lh3.googleusercontent.com/-rfqKUmsjMs0/VZbK9nVP8VI/AAAAAAAACAY/ZryxYPJfVxA/s720/6dba391e_original_002.jpg
-        https://lh3.googleusercontent.com/-r3sJBiddkn4/VZbK9i5R20I/AAAAAAAACAY/ouFDCcwYglk/s720/24685c40_original_002.jpg
-        https://lh3.googleusercontent.com/-ykuuxMOmZ2Q/VZbK9ghZYhI/AAAAAAAACAY/KEZ1RJ86XRI/s720/85d98082_original_002.jpg
-        https://lh3.googleusercontent.com/-LPeYaSknfs0/VZbK9tLS4UI/AAAAAAAACAY/bnPGjFGg7qs/s720/426e580d_original_002.jpg
-        https://lh3.googleusercontent.com/-x2oLOwzVASo/VZbK9pknB-I/AAAAAAAACAY/AqJ9mY8fKmY/s720/83adf10d_original_002.jpg
-        https://lh3.googleusercontent.com/-OdRl5A68ksc/VZbK9lyteFI/AAAAAAAACAY/hzIVGoh4vzg/s720/14b3010c_original.jpg
+Image: /images/studio/main.jpg
+Images: /images/studio/main.jpg
+        /images/studio/1.jpg
+        /images/studio/2.jpg
+        /images/studio/3.jpg
+        /images/studio/4.jpg
+        /images/studio/5.jpg
 Caption: For up to 5 people; Breakfast included; Free WiFi
 Properties: Privet bathroom
             Up to 5 people

@@ -2,7 +2,7 @@ Title: Goat cheese – brought to you by Hana and Lea our farm goats
 Date: 2015-05-23 18:56
 Author: Izhar Gurion
 Slug: goat-cheese
-Image: https://lh5.googleusercontent.com/-aybgmZGanqA/VWCtOSX7sWI/AAAAAAAABwk/Jm2-F8pBCiM/w308-h547-no/IMG_20150523_175657.jpg
+Image: /images/posts/goat_cheese.jpg
 Summary: Upgrading our home made goat cheese selection with seasoned soft cheese.
 Tags: cheese, goat cheese, homemade, yogurt, breakfast
 Hideimage: True

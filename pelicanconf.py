@@ -52,6 +52,7 @@ SHOW_ARTICLE_AUTHOR = True
 
 STATIC_PATHS = [
     'extra',
+    'images',
 ]
 EXTRA_PATH_METADATA = {
     'extra/favicon.ico': {'path': 'favicon.ico'}
