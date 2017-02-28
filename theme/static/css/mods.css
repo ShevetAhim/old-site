@@ -69,6 +69,16 @@ body {
     -webkit-column-gap: 1em;
 }
 
+/* NAVBAR
+ * -------------------------------------------------*/
+
+.navbar-brand,
+.navbar-nav li a {
+    line-height: 60px;
+    height: 60px;
+    padding-top: 0;
+}
+
 /* FOOTER
  * -------------------------------------------------*/
 footer {
