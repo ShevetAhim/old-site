@@ -39,6 +39,16 @@ body {
     margin-top: 1em;
 }
 
+.tiles-huge {
+    /* column width */
+    -moz-column-width: 20em;
+    -webkit-column-width: 20em;
+
+    /* space between columns */
+    -moz-column-gap: 1em;
+    -webkit-column-gap: 1em;
+}
+
 .tiles-large {
     /* column width */
     -moz-column-width: 15em;

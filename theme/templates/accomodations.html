@@ -4,20 +4,22 @@
 
 {% block content %}
 
-<div class="row">
-    {% for category, pages in categories %}{% if category == 'Accomodations' %}{% for page in pages %}
-        <div class="col-sm-6">
-            <a href="{{ page.url }}">
-                <div class="image-block">
-                    <img class="img-thumbnail" src="{{ page.image }}"/>
-                    <div class="ib-content">
-                        <h4 class="ib-content-element">{{ page.title }}</h2>
-                        <p class="ib-content-element">{{ page.caption }}</p>
+<div class="container">
+    <div class="tiles-huge row">
+        {% for category, pages in categories %}{% if category == 'Accomodations' %}{% for page in pages %}
+            <div class="tile">
+                <a href="{{ page.url }}">
+                    <div class="image-block">
+                        <img class="img-thumbnail" src="{{ page.image }}"/>
+                        <div class="ib-content">
+                            <h4 class="ib-content-element">{{ page.title }}</h4>
+                            <p class="ib-content-element">{{ page.caption }}</p>
+                        </div>
                     </div>
-                </div>
-            </a>
-        </div>
-    {% endfor %}{% endif %}{% endfor %}
+                </a>
+            </div>
+        {% endfor %}{% endif %}{% endfor %}
+    </div>
 </div>
 
 {% endblock %}
