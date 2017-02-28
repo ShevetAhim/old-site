@@ -36,13 +36,13 @@
 
 <!-- Attractions
 =================================================== -->
-<div class="container attractions">
+<div class="container">
 
     <!-- Three columns of text below the carousel -->
-    <div class="row">
+    <div class="tiles-large row">
         {% for category, pages in categories %}{% if category == 'Attractions' %}{% for page in pages %}
-            <div class="col-lg-4 col-md-6 col-xs-12 text-center">
-                <img class="thumbnail text-center" src="{{ page.image }}">
+            <div class="tile thumbnail text-center">
+                <img src="{{ page.image }}">
                 <a href="{{ page.url }}"><h2>{{ page.title }}</h2></a>
                 <p>{{ page.summary }}</p>
             </div>
@@ -57,13 +57,13 @@
     <h2>Attractions</h2>
 </header>
 
-<div class="container partners">
+<div class="container">
 
     <!-- Three columns of text below the carousel -->
-    <div class="row">
+    <div class="tiles-small row">
         {% for category, pages in categories %}{% if category == 'Partners' %}{% for page in pages %}
-            <div class="col-lg-3 col-md-4 col-xs-12 text-center row-item">
-                <img class="thumbnail text-center" src="{{ page.image }}">
+            <div class="tile thumbnail text-center">
+                <img src="{{ page.image }}">
                 <h4>{{ page.title }}</h4>
                 {% include "includes/partner_badges.html" %}
                 <p>{{ page.summary }}</p>
