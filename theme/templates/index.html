@@ -5,7 +5,7 @@
 {% block content %}
 <!-- Carousel
 ================================================== -->
-<div id="carousel">
+<div id="carousel" dir="rtl">
     {% for category, pages in categories %}{% if category == 'Accomodations' %}{% for page in pages|sort(attribute='sortorder') %}
         <a href="{{ page.url }}">
             <div class="image-block text-center">

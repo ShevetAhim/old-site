@@ -4,6 +4,7 @@ $(document).ready(function(){
         infinite: true,
         fade: true,
         adaptiveHeight: true,
+        rtl: true,
         cssEase: 'linear'
     });
 });
