@@ -19,8 +19,13 @@
     {% endfor %}{% endif %}{% endfor %}
 </div>
 
-<!-- Attractions
+<!-- Attractions and partners
 =================================================== -->
+
+<header class="page-header">
+    <h2>Attractions</h2>
+</header>
+
 <div class="container">
 
     <!-- Three columns of text below the carousel -->
@@ -32,20 +37,6 @@
                 <p>{{ page.summary }}</p>
             </div>
         {% endfor %}{% endif %}{% endfor %}
-    </div>
-
-</div>
-
-<!-- Partners
-=================================================== -->
-<header class="page-header">
-    <h2>Attractions</h2>
-</header>
-
-<div class="container">
-
-    <!-- Three columns of text below the carousel -->
-    <div class="tiles-small row">
         {% for category, pages in categories %}{% if category == 'Partners' %}{% for page in pages %}
             <div class="tile thumbnail text-center">
                 <img src="{{ page.image }}">
