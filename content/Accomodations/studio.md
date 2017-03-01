@@ -5,7 +5,7 @@ Slug: studio-room
 sortorder: 2
 Template: accomodation
 Image: /images/studio/main.jpg
-Images: /images/studio/main.jpg
+Images: /images/studio/0.jpg
         /images/studio/1.jpg
         /images/studio/2.jpg
         /images/studio/3.jpg

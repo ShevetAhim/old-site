@@ -6,7 +6,7 @@ Caption: For single or couple; Free WiFi
 sortorder: 4
 Template: accomodation
 Image: /images/tipi_tent/main.jpg
-Images: /images/tipi_tent/main.jpg
+Images: /images/tipi_tent/0.jpg
         /images/tipi_tent/1.jpg
         /images/tipi_tent/2.jpg
         /images/tipi_tent/3.jpg

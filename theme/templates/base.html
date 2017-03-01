@@ -64,6 +64,8 @@
     {% else %}
         <link rel="stylesheet" href="{{ SITEURL }}/theme/css/bootstrap.min.css" type="text/css"/>
     {% endif %}
+    <link href="{{ SITEURL }}/theme/slick/slick.css" rel="stylesheet">
+    <link href="{{ SITEURL }}/theme/slick/slick-theme.css" rel="stylesheet">
     <link href="{{ SITEURL }}/theme/css/font-awesome.min.css" rel="stylesheet">
     <link href="{{ SITEURL }}/theme/css/style.css" rel="stylesheet" type="text/css"/>
     <link href="{{ SITEURL }}/theme/css/mods.css" rel="stylesheet">
@@ -136,7 +138,8 @@
 {% include 'includes/footer.html' %}
 
 <script src="{{ SITEURL }}/theme/js/jquery.min.js"></script>
-<script src="http://www.galilee-bedouin-camplodge.com/theme/js/mods.js"></script>
+<script src="{{ SITEURL }}/theme/slick/slick.min.js"></script>
+<script src="{{ SITEURL }}/theme/js/mods.js"></script>
 
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 <script src="{{ SITEURL }}/theme/js/bootstrap.min.js"></script>

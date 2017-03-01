@@ -6,7 +6,7 @@ Caption: Couples room; Air condition; Breakfast; Kitchen
 sortorder: 1
 Template: accomodation
 Image: /images/train_wagon/main.jpg
-Images: /images/train_wagon/main.jpg
+Images: /images/train_wagon/0.jpg
         /images/train_wagon/1.jpg
         /images/train_wagon/2.jpg
         /images/train_wagon/3.jpg

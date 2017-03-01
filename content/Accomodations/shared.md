@@ -6,7 +6,7 @@ Caption: One bed; Free WiFi
 sortorder: 3
 Template: accomodation
 Image: /images/shared/main.jpg
-Images: /images/shared/main.jpg
+Images: /images/shared/0.jpg
         /images/shared/1.jpg
         /images/shared/2.jpg
         /images/shared/3.jpg
