@@ -83,8 +83,17 @@ footer {
     z-index: 1;
 }
 
+[dir="rtl"] .slick-prev {
+    right: 10px;
+}
+
 .slick-next {
     right: 10px;
+}
+
+
+[dir="rtl"] .slick-next {
+    left: 10px;
 }
 
 .slick-prev::before,
