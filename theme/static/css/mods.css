@@ -119,3 +119,12 @@ footer {
 .image-block img {
     width: 100%;
 }
+
+/* SIDEBAR
+ * ------------------------------------------------*/
+
+@media (max-width: 1200px) {
+  #sidebar {
+    display: none;
+  }
+}
