@@ -3,7 +3,7 @@ Date: 2016-04-01 20:00
 Author: תם גוריון
 Slug: train-wagon
 Caption: חדר זוגי וממוזג עם ארוחת בוקר
-sortorder: 1
+sortorder: 2
 Template: accomodation
 Image: /images/train_wagon/main.jpg
 Images: /images/train_wagon/0.jpg

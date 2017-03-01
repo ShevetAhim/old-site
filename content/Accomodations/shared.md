@@ -3,7 +3,7 @@ Date: 2016-03-31 20:00
 Author: תם גוריון
 Slug: main-tent
 Caption:
-sortorder: 3
+sortorder: 1
 Template: accomodation
 Image: /images/shared/main.jpg
 Images: /images/shared/0.jpg

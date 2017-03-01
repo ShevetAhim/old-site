@@ -2,7 +2,7 @@ Title: חדר הסטודיו
 Date: 2016-04-01 20:00
 Author: תם גוריון
 Slug: studio-room
-sortorder: 2
+sortorder: 3
 Template: accomodation
 Image: /images/studio/main.jpg
 Images: /images/studio/0.jpg
