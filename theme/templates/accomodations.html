@@ -6,7 +6,7 @@
 
 <div class="container">
     <div class="tiles-huge row">
-        {% for category, pages in categories %}{% if category == 'Accomodations' %}{% for page in pages %}
+        {% for category, pages in categories %}{% if category == 'Accomodations' %}{% for page in pages|sort(attribute='sortorder') %}
             <div class="tile">
                 <a href="{{ page.url }}">
                     <div class="image-block">
