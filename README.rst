@@ -26,13 +26,10 @@ Moreover, autoenv_ is really fun. Use it!
 Deployment
 ----------
 
-I'm using Codeship_ to deploy. Use the followin setup commands:
+I'm using Codeship_ to deploy. Make sure to set the environment variable `PYENV_VERSION` to `3.6` through their web interface. Then, use the followin setup commands:
 
 .. code-block:: bash
 
-    # Replace default virtualenv with python3
-    rm -rf ${HOME}/.virtualenv
-    virtualenv -p $(which python3) "${HOME}/.virtualenv"
     pip install -r requirements.txt
     make get_plugins
 
