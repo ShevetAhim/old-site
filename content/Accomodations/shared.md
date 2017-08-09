@@ -19,9 +19,10 @@ Properties: Fully equiped kitchen
             Free coffee and tea
             Free WiFi
             Shared bathroom
-            Up to 25 guests
+            Up to 10 guests
 Tags: Dormitory,Shared room,khan
-Summary: 25-Bed shared dormitory on a suburban environment. Chill-out in the spirit of the Bedouin hospitality.
+Summary: 10-bed shared dormitory on a suburban environment. Chill-out in the spirit of the Bedouin hospitality.
 
-The White Khan is located at the center of our site. During the winter it is warmed with wood-burning stove, allowing our guests to enjoy the warm and cosy atmosphere even on the coldest days. At the summertime the Khan is open and calm wind from the wadi flows through its windows. There is a fully equipped kitchen In the Khan for your use, including refrigerator, hob, stove, sink with hot water and cooking / serving utensils. The Khan floor is covered with mats, and there are many mattresses and pillows for your convenience. Outside is a spacious shaded chill-out area built in the spirit of the Bedouin hospitality, with views of the garden. There are also a  place for campfire and comfortable sitting areas.
+The White Khan is located at the center of our site. During the winter it is warmed with wood-burning stove, allowing our guests to enjoy the warm and cosy atmosphere even on the coldest days. At the summertime the Khan is open and calm wind from the wadi flows through its windows. It is also equipped with air conditioner. There is a fully equipped kitchen In the Khan for your use, including refrigerator, hob, stove, sink with hot water and cooking / serving utensils. The Khan floor is covered with mats, and there are many mattresses and pillows for your convenience. Outside is a spacious shaded chill-out area built in the spirit of the Bedouin hospitality, with views of the garden. There are also a  place for campfire and comfortable sitting areas.
+
 Guests of the white Khan have free WiFi access and shared toilets and showers. Bed linen and towels are provided.
