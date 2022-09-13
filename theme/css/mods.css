@@ -1,0 +1,145 @@
+/* MISC 
+ * -------------------------------------------------*/
+
+body {
+    background-color: #FEF8D8;
+}
+
+.panel {
+    border: 1px solid #EEE;
+}
+
+.tile img {
+    min-width: 100%;
+}
+
+.panel-body img {
+    max-width: 100%;
+}
+
+.article-content > .img-thumbnail {
+    max-width: 320px;
+    max-height: 320px;
+    margin-right: 10px;
+}
+
+.tile {
+    display: inline-block;
+    width: 100%;
+    margin-top: 1em;
+}
+
+.tiles-huge {
+    /* column width */
+    -moz-column-width: 20em;
+    -webkit-column-width: 20em;
+
+    /* space between columns */
+    -moz-column-gap: 1em;
+    -webkit-column-gap: 1em;
+}
+
+.tiles-large {
+    /* column width */
+    -moz-column-width: 15em;
+    -webkit-column-width: 15em;
+
+    /* space between columns */
+    -moz-column-gap: 1em;
+    -webkit-column-gap: 1em;
+}
+
+.tiles-small {
+    /* column width */
+    -moz-column-width: 10em;
+    -webkit-column-width: 10em;
+
+    /* space between columns */
+    -moz-column-gap: 1em;
+    -webkit-column-gap: 1em;
+}
+
+/* NAVBAR
+ * -------------------------------------------------*/
+
+.navbar-brand,
+.navbar-nav li a {
+    line-height: 60px;
+    height: 60px;
+    padding-top: 0;
+}
+
+/* FOOTER
+ * -------------------------------------------------*/
+footer {
+    background-color: rgba(255, 255, 255, 0.4);
+}
+
+@media (max-width: 1200px) {
+    footer {
+        display: none;
+    }
+}
+
+/* CAROUSEL
+ * ------------------------------------------------*/
+
+.slick-prev {
+    left: 10px;
+    z-index: 1;
+}
+
+[dir="rtl"] .slick-prev {
+    right: 10px;
+}
+
+.slick-next {
+    right: 10px;
+}
+
+
+[dir="rtl"] .slick-next {
+    left: 10px;
+}
+
+.slick-prev::before,
+.slick-next::before {
+    color: black;
+}
+
+.slick-dots {
+    bottom: -32px;
+}
+
+/* IMAGE BLOCKS
+ * ------------------------------------------------*/
+.image-block {
+    position: relative;
+}
+
+.ib-content {
+    position: absolute;
+    padding: 5px 5px;
+    bottom: 0px;
+    width: 100%;
+}
+
+.ib-content-element {
+    color: white;
+    padding: 5px 5px;
+    margin: 0px;
+    background: rgba(0,0,0,0.7);
+}
+
+.image-block img {
+    width: 100%;
+}
+
+/* SIDEBAR
+ * ------------------------------------------------*/
+
+@media (max-width: 1200px) {
+  #sidebar {
+    display: none;
+  }
+}
